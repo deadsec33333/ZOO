@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/explore/animals/churro",
+        "destination": "/churro.html"
+      }
+    ]
+  }
+  
